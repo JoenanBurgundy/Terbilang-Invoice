@@ -32,7 +32,7 @@ Add a Written Invoice Amount Field
     'depends': ['base','account'],
     'data': ['invoice_written_view.xml'],
     'images': [
-        'images/terbilang.png'
+        'images/terbilang.jpg'
     ],
     'active': False,
     'installable': True,
