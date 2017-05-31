@@ -31,6 +31,9 @@ Add a Written Invoice Amount Field
     'license': 'AGPL-3',
     'depends': ['base','account'],
     'data': ['invoice_written_view.xml'],
+    'images': [
+        'images/terbilang.png'
+    ],
     'active': False,
     'installable': True,
     'auto_install' : False,
