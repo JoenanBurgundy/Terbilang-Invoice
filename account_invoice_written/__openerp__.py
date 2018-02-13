@@ -26,10 +26,10 @@
     'description': """
 Add a Written Invoice Amount Field
 """,
-    'author': 'Burgundy',
+    'author': 'Burgundy <joenannr@gmail.com>',
     'website': 'burgundy.id',
     'license': 'AGPL-3',
-    'depends': ['base','account'],
+    'depends': ['account'],
     'data': ['invoice_written_view.xml'],
     'active': False,
     'installable': True,
