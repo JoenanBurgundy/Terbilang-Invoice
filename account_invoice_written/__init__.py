@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    Copyright (C) {2014} {Fadhlullah} <{fadhlullah@visi.co.id}>
+#    Copyright (C) {2014} {PT Arkana Solusi Digital} <{info@arkana.co.id}>
 #    All Rights Reserved
 #
 #    This program is free software: you can redistribute it and/or modify
