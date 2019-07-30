@@ -26,7 +26,7 @@
     'description': """
 Add a Written Invoice Amount Field
 """,
-    'author': 'Arkana',
+    'author': 'Arkana <info@arkana.co.id>',
     'website': 'https://arkana.co.id',
     'license': 'AGPL-3',
     'depends': ['base','account'],
