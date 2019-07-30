@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    Copyright (C) {2014} {Fadhlullah} <{fadhlullah@visi.co.id}>
+#    Copyright (C) {2014} {Fadhlullah} <{fadhlullah@arkana.co.id}>
 #    All Rights Reserved
 #
 #    This program is free software: you can redistribute it and/or modify
@@ -26,8 +26,8 @@
     'description': """
 Add a Written Invoice Amount Field
 """,
-    'author': 'Burgundy <joenannr@gmail.com>',
-    'website': 'burgundy.id',
+    'author': 'Arkana',
+    'website': 'https://arkana.co.id',
     'license': 'AGPL-3',
     'depends': ['base','account'],
     'data': ['invoice_written_view.xml'],
